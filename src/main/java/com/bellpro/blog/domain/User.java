@@ -1,4 +1,4 @@
-package com.bellpro.blog.model;
+package com.bellpro.blog.domain;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

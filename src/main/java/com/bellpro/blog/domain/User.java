@@ -41,5 +41,6 @@ public class User {
         this.password = password;
         this.email = email;
         this.kakaoId = kakaoId;
+
     }
 }
